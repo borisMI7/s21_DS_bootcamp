@@ -1,0 +1,13 @@
+Wed Feb 12 00:30:41 2025    pstats-cumulative.txt
+
+         722589 function calls (697874 primitive calls) in 1.607 seconds
+
+   Ordered by: cumulative time
+   List reduced from 1909 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+    171/1    0.000    0.000    1.607    1.607 {built-in method builtins.exec}
+        1    0.000    0.000    1.607    1.607 financial_enhanced.py:1(<module>)
+        1    0.000    0.000    1.405    1.405 financial_enhanced.py:19(main)
+        1    0.000    0.000    1.305    1.305 financial_enhanced.py:13(getHTML)
+        1    0.000    0.000    1.304    1.304 /Users/boris/Desktop/21_school/DS_ML/DS_Bootcamp.Day03-1/src/ex02/gwynethl/lib/python3.13/site-packages/requests/api.py:62(get)
